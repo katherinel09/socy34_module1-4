@@ -1,0 +1,2034 @@
+[
+  {
+    "County": "Anderson",
+    "Median household income overall": 48500,
+    "White median household income": 48700,
+    "Black median household income": 43800,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Andrews",
+    "Median household income overall": 74900,
+    "White median household income": 82200,
+    "Black median household income": 75300,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Angelina",
+    "Median household income overall": 51800,
+    "White median household income": 55900,
+    "Black median household income": 45100,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Aransas",
+    "Median household income overall": 53100,
+    "White median household income": 52200,
+    "Black median household income": 33100,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Archer",
+    "Median household income overall": 63700,
+    "White median household income": 67200,
+    "Black median household income": 42700,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "17%"
+  },
+  {
+    "County": "Armstrong",
+    "Median household income overall": 64400,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "16%"
+  },
+  {
+    "County": "Atascosa",
+    "Median household income overall": 57300,
+    "White median household income": 66300,
+    "Black median household income": 50300,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Austin",
+    "Median household income overall": 68300,
+    "White median household income": 73700,
+    "Black median household income": 60700,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Bailey",
+    "Median household income overall": 46200,
+    "White median household income": 75100,
+    "Black median household income": 41200,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Bandera",
+    "Median household income overall": 59600,
+    "White median household income": 59100,
+    "Black median household income": 56000,
+    "High. School graduation rate (2017-2018)": "88%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Bastrop",
+    "Median household income overall": 62600,
+    "White median household income": 69100,
+    "Black median household income": 62200,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Baylor",
+    "Median household income overall": 41500,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Bee",
+    "Median household income overall": 44200,
+    "White median household income": 47400,
+    "Black median household income": 41600,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "29%"
+  },
+  {
+    "County": "Bell",
+    "Median household income overall": 54800,
+    "White median household income": 62700,
+    "Black median household income": 49000,
+    "High. School graduation rate (2017-2018)": "74%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Bexar",
+    "Median household income overall": 59000,
+    "White median household income": 73100,
+    "Black median household income": 49500,
+    "High. School graduation rate (2017-2018)": "90%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Blanco",
+    "Median household income overall": 68400,
+    "White median household income": 68700,
+    "Black median household income": 51300,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "17%"
+  },
+  {
+    "County": "Borden",
+    "Median household income overall": 71900,
+    "White median household income": 71900,
+    "Black median household income": 77500,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "14%"
+  },
+  {
+    "County": "Bosque",
+    "Median household income overall": 55200,
+    "White median household income": 53700,
+    "Black median household income": 40200,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Bowie",
+    "Median household income overall": 51200,
+    "White median household income": 55800,
+    "Black median household income": 54700,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Brazoria",
+    "Median household income overall": 83700,
+    "White median household income": 85400,
+    "Black median household income": 67600,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Brazos",
+    "Median household income overall": 54500,
+    "White median household income": 58300,
+    "Black median household income": 41800,
+    "High. School graduation rate (2017-2018)": "87%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Brewster",
+    "Median household income overall": 48600,
+    "White median household income": 52700,
+    "Black median household income": 45000,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Briscoe",
+    "Median household income overall": 44300,
+    "White median household income": 45500,
+    "Black median household income": 30800,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Brooks",
+    "Median household income overall": 31400,
+    "White median household income": 31100,
+    "Black median household income": 28100,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "36%"
+  },
+  {
+    "County": "Brown",
+    "Median household income overall": 56000,
+    "White median household income": 48800,
+    "Black median household income": 42500,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Burleson",
+    "Median household income overall": 61700,
+    "White median household income": 69100,
+    "Black median household income": 58400,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Burnet",
+    "Median household income overall": 62800,
+    "White median household income": 60700,
+    "Black median household income": 49100,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Caldwell",
+    "Median household income overall": 55300,
+    "White median household income": 55800,
+    "Black median household income": 52200,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Calhoun",
+    "Median household income overall": 55900,
+    "White median household income": 65700,
+    "Black median household income": 55700,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Callahan",
+    "Median household income overall": 50800,
+    "White median household income": 50500,
+    "Black median household income": 41000,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Cameron",
+    "Median household income overall": 40900,
+    "White median household income": 53200,
+    "Black median household income": 36200,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "34%"
+  },
+  {
+    "County": "Camp",
+    "Median household income overall": 47100,
+    "White median household income": 53400,
+    "Black median household income": 57800,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Carson",
+    "Median household income overall": 69800,
+    "White median household income": 75400,
+    "Black median household income": 101700,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "15%"
+  },
+  {
+    "County": "Cass",
+    "Median household income overall": 44500,
+    "White median household income": 49000,
+    "Black median household income": 32100,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Castro",
+    "Median household income overall": 51700,
+    "White median household income": 62700,
+    "Black median household income": 41800,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Chambers",
+    "Median household income overall": 93400,
+    "White median household income": 96200,
+    "Black median household income": 71700,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Cherokee",
+    "Median household income overall": 46600,
+    "White median household income": 53800,
+    "Black median household income": 46500,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Childress",
+    "Median household income overall": 44100,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Clay",
+    "Median household income overall": 60000,
+    "White median household income": 56000,
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Cochran",
+    "Median household income overall": 43700,
+    "White median household income": 50100,
+    "Black median household income": 36600,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "32%"
+  },
+  {
+    "County": "Coke",
+    "Median household income overall": 48400,
+    "White median household income": 46400,
+    "Black median household income": 39900,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Coleman",
+    "Median household income overall": 44800,
+    "White median household income": 46700,
+    "Black median household income": 48800,
+    "High. School graduation rate (2017-2018)": "90%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Collin",
+    "Median household income overall": 96800,
+    "White median household income": 103700,
+    "Black median household income": 66700,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "14%"
+  },
+  {
+    "County": "Collingsworth",
+    "Median household income overall": 40300,
+    "White median household income": 52700,
+    "Black median household income": 38000,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Colorado",
+    "Median household income overall": 55600,
+    "White median household income": 56400,
+    "Black median household income": 46100,
+    "High. School graduation rate (2017-2018)": "87%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Comal",
+    "Median household income overall": 88000,
+    "White median household income": 85600,
+    "Black median household income": 59500,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "16%"
+  },
+  {
+    "County": "Comanche",
+    "Median household income overall": 54100,
+    "White median household income": 53300,
+    "Black median household income": 53200,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Concho",
+    "Median household income overall": 43300,
+    "White median household income": 55600,
+    "Black median household income": 32100,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "28%"
+  },
+  {
+    "County": "Cooke",
+    "Median household income overall": 61200,
+    "White median household income": 63500,
+    "Black median household income": 51300,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Coryell",
+    "Median household income overall": 23100,
+    "White median household income": 54600,
+    "Black median household income": 42800,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Cottle",
+    "Median household income overall": 40400,
+    "White median household income": 45900,
+    "Black median household income": 31900,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "28%"
+  },
+  {
+    "County": "Crane",
+    "Median household income overall": 68600,
+    "White median household income": 81300,
+    "Black median household income": 57200,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Crockett",
+    "Median household income overall": 54200,
+    "White median household income": 51200,
+    "Black median household income": 42800,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Crosby",
+    "Median household income overall": 38900,
+    "White median household income": 51300,
+    "Black median household income": 35800,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "29%"
+  },
+  {
+    "County": "Culberson",
+    "Median household income overall": 44500,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "36%"
+  },
+  {
+    "County": "Dallam",
+    "Median household income overall": 55800,
+    "White median household income": 63100,
+    "Black median household income": 55900,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Dallas",
+    "Median household income overall": 61800,
+    "White median household income": 81400,
+    "Black median household income": 50600,
+    "High. School graduation rate (2017-2018)": "84%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Dawson",
+    "Median household income overall": 48200,
+    "White median household income": 57100,
+    "Black median household income": 27300,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "31%"
+  },
+  {
+    "County": "Deaf Smith",
+    "Median household income overall": 46200,
+    "White median household income": 63400,
+    "Black median household income": 46700,
+    "High. School graduation rate (2017-2018)": "83%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Delta",
+    "Median household income overall": 51300,
+    "White median household income": 55400,
+    "Black median household income": 90700,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Denton",
+    "Median household income overall": 90900,
+    "White median household income": 96900,
+    "Black median household income": 64900,
+    "High. School graduation rate (2017-2018)": "88%",
+    "Poor or fair health": "14%"
+  },
+  {
+    "County": "DeWitt",
+    "Median household income overall": 52500,
+    "White median household income": 64500,
+    "Black median household income": 41400,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Dickens",
+    "Median household income overall": 42000,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Dimmit",
+    "Median household income overall": 40300,
+    "White median household income": "",
+    "Black median household income": 24600,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "36%"
+  },
+  {
+    "County": "Donley",
+    "Median household income overall": 41100,
+    "White median household income": 43300,
+    "Black median household income": 45300,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Duval",
+    "Median household income overall": 37100,
+    "White median household income": 55100,
+    "Black median household income": 38200,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "34%"
+  },
+  {
+    "County": "Eastland",
+    "Median household income overall": 47000,
+    "White median household income": 37400,
+    "Black median household income": 32900,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Ector",
+    "Median household income overall": 65600,
+    "White median household income": 72000,
+    "Black median household income": 57100,
+    "High. School graduation rate (2017-2018)": "82%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Edwards",
+    "Median household income overall": 40400,
+    "White median household income": 54700,
+    "Black median household income": 33100,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "El Paso",
+    "Median household income overall": 48600,
+    "White median household income": 63300,
+    "Black median household income": 43100,
+    "High. School graduation rate (2017-2018)": "87%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Ellis",
+    "Median household income overall": 78300,
+    "White median household income": 85200,
+    "Black median household income": 63900,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Erath",
+    "Median household income overall": 53000,
+    "White median household income": 55400,
+    "Black median household income": 45800,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Falls",
+    "Median household income overall": 41500,
+    "White median household income": 45800,
+    "Black median household income": 30800,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Fannin",
+    "Median household income overall": 56100,
+    "White median household income": 57700,
+    "Black median household income": 50900,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Fayette",
+    "Median household income overall": 62200,
+    "White median household income": 62900,
+    "Black median household income": 63400,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Fisher",
+    "Median household income overall": 51100,
+    "White median household income": 53200,
+    "Black median household income": 36600,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Floyd",
+    "Median household income overall": 45000,
+    "White median household income": 65300,
+    "Black median household income": 44000,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "28%"
+  },
+  {
+    "County": "Foard",
+    "Median household income overall": 38600,
+    "White median household income": 45500,
+    "Black median household income": 41400,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Fort Bend",
+    "Median household income overall": 101400,
+    "White median household income": 116700,
+    "Black median household income": 70400,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "15%"
+  },
+  {
+    "County": "Franklin",
+    "Median household income overall": 50600,
+    "White median household income": 53300,
+    "Black median household income": 58000,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "17%"
+  },
+  {
+    "County": "Freestone",
+    "Median household income overall": 52500,
+    "White median household income": 58100,
+    "Black median household income": 45800,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Frio",
+    "Median household income overall": 40400,
+    "White median household income": 67100,
+    "Black median household income": 41700,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "31%"
+  },
+  {
+    "County": "Gaines",
+    "Median household income overall": 67200,
+    "White median household income": 64100,
+    "Black median household income": 58300,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Galveston",
+    "Median household income overall": 73200,
+    "White median household income": 85100,
+    "Black median household income": 58400,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Garza",
+    "Median household income overall": 49000,
+    "White median household income": 63800,
+    "Black median household income": 38500,
+    "High. School graduation rate (2017-2018)": "86%",
+    "Poor or fair health": "28%"
+  },
+  {
+    "County": "Gillespie",
+    "Median household income overall": 62100,
+    "White median household income": 59000,
+    "Black median household income": 58700,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Glasscock",
+    "Median household income overall": 93800,
+    "White median household income": 125300,
+    "Black median household income": 42600,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Goliad",
+    "Median household income overall": 56800,
+    "White median household income": 75300,
+    "Black median household income": 32600,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Gonzales",
+    "Median household income overall": 48400,
+    "White median household income": 61900,
+    "Black median household income": 50800,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Gray",
+    "Median household income overall": 52500,
+    "White median household income": 51100,
+    "Black median household income": 46600,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Grayson",
+    "Median household income overall": 57400,
+    "White median household income": 58000,
+    "Black median household income": 53500,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Gregg",
+    "Median household income overall": 53100,
+    "White median household income": 60200,
+    "Black median household income": 41500,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Grimes",
+    "Median household income overall": 51700,
+    "White median household income": 58200,
+    "Black median household income": 52100,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Guadalupe",
+    "Median household income overall": 78800,
+    "White median household income": 80700,
+    "Black median household income": 60800,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Hale",
+    "Median household income overall": 49200,
+    "White median household income": 52600,
+    "Black median household income": 44400,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Hall",
+    "Median household income overall": 35900,
+    "White median household income": 40600,
+    "Black median household income": 26800,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "31%"
+  },
+  {
+    "County": "Hamilton",
+    "Median household income overall": 52500,
+    "White median household income": 55500,
+    "Black median household income": 32000,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Hansford",
+    "Median household income overall": 58700,
+    "White median household income": 48200,
+    "Black median household income": 29000,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Hardeman",
+    "Median household income overall": 40100,
+    "White median household income": 46800,
+    "Black median household income": 39100,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Hardin",
+    "Median household income overall": 62600,
+    "White median household income": 62000,
+    "Black median household income": 91300,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Harris",
+    "Median household income overall": 61600,
+    "White median household income": 90600,
+    "Black median household income": 50300,
+    "High. School graduation rate (2017-2018)": "87%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Harrison",
+    "Median household income overall": 55200,
+    "White median household income": 61200,
+    "Black median household income": 53100,
+    "High. School graduation rate (2017-2018)": "88%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Hartley",
+    "Median household income overall": 72800,
+    "White median household income": 58900,
+    "Black median household income": 59400,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Haskell",
+    "Median household income overall": 38600,
+    "White median household income": 47300,
+    "Black median household income": 29900,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Hays",
+    "Median household income overall": 72900,
+    "White median household income": 75100,
+    "Black median household income": 59600,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Hemphill",
+    "Median household income overall": 71300,
+    "White median household income": 93100,
+    "Black median household income": 43200,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Henderson",
+    "Median household income overall": 49900,
+    "White median household income": 50100,
+    "Black median household income": 37500,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Hidalgo",
+    "Median household income overall": 41700,
+    "White median household income": 52600,
+    "Black median household income": 38100,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "33%"
+  },
+  {
+    "County": "Hill",
+    "Median household income overall": 53200,
+    "White median household income": 56600,
+    "Black median household income": 46900,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Hockley",
+    "Median household income overall": 51100,
+    "White median household income": 56800,
+    "Black median household income": 42300,
+    "High. School graduation rate (2017-2018)": "89%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Hood",
+    "Median household income overall": 74500,
+    "White median household income": 64800,
+    "Black median household income": 53300,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "17%"
+  },
+  {
+    "County": "Hopkins",
+    "Median household income overall": 50300,
+    "White median household income": 60000,
+    "Black median household income": 41800,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Houston",
+    "Median household income overall": 43600,
+    "White median household income": 46200,
+    "Black median household income": 25400,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Howard",
+    "Median household income overall": 61100,
+    "White median household income": 63100,
+    "Black median household income": 44200,
+    "High. School graduation rate (2017-2018)": "90%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Hudspeth",
+    "Median household income overall": 39300,
+    "White median household income": 45900,
+    "Black median household income": 30000,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "36%"
+  },
+  {
+    "County": "Hunt",
+    "Median household income overall": 57500,
+    "White median household income": 61200,
+    "Black median household income": 43700,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Hutchinson",
+    "Median household income overall": 57900,
+    "White median household income": 55000,
+    "Black median household income": 46800,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Irion",
+    "Median household income overall": 68600,
+    "White median household income": 48500,
+    "Black median household income": 62700,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Jack",
+    "Median household income overall": 55400,
+    "White median household income": 53900,
+    "Black median household income": 29100,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Jackson",
+    "Median household income overall": 55800,
+    "White median household income": 68700,
+    "Black median household income": 50500,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Jasper",
+    "Median household income overall": 47300,
+    "White median household income": 51500,
+    "Black median household income": 30800,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Jeff Davis",
+    "Median household income overall": 53400,
+    "White median household income": 53500,
+    "Black median household income": 53100,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Jefferson",
+    "Median household income overall": 55200,
+    "White median household income": 69800,
+    "Black median household income": 47300,
+    "High. School graduation rate (2017-2018)": "87%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Jim Hogg",
+    "Median household income overall": 38800,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "33%"
+  },
+  {
+    "County": "Jim Wells",
+    "Median household income overall": 44400,
+    "White median household income": 58800,
+    "Black median household income": 38200,
+    "High. School graduation rate (2017-2018)": "89%",
+    "Poor or fair health": "30%"
+  },
+  {
+    "County": "Johnson",
+    "Median household income overall": 66500,
+    "White median household income": 66500,
+    "Black median household income": 57000,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Jones",
+    "Median household income overall": 51100,
+    "White median household income": 57000,
+    "Black median household income": 38700,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Karnes",
+    "Median household income overall": 54800,
+    "White median household income": 71000,
+    "Black median household income": 47000,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Kaufman",
+    "Median household income overall": 75000,
+    "White median household income": 74000,
+    "Black median household income": 63200,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Kendall",
+    "Median household income overall": 94900,
+    "White median household income": 93100,
+    "Black median household income": 64200,
+    "High. School graduation rate (2017-2018)": "99%",
+    "Poor or fair health": "14%"
+  },
+  {
+    "County": "Kenedy",
+    "Median household income overall": 46100,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "38%"
+  },
+  {
+    "County": "Kent",
+    "Median household income overall": 52600,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Kerr",
+    "Median household income overall": 57800,
+    "White median household income": 62200,
+    "Black median household income": 41500,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Kimble",
+    "Median household income overall": 44800,
+    "White median household income": 44900,
+    "Black median household income": 30800,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "King",
+    "Median household income overall": 71300,
+    "White median household income": 67100,
+    "Black median household income": 29300,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "18%"
+  },
+  {
+    "County": "Kinney",
+    "Median household income overall": 47100,
+    "White median household income": 32800,
+    "Black median household income": 20200,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "31%"
+  },
+  {
+    "County": "Kleberg",
+    "Median household income overall": 47200,
+    "White median household income": 66300,
+    "Black median household income": 41300,
+    "High. School graduation rate (2017-2018)": "89%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Knox",
+    "Median household income overall": 40800,
+    "White median household income": 54800,
+    "Black median household income": 41400,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "La Salle",
+    "Median household income overall": 41700,
+    "White median household income": 56700,
+    "Black median household income": 46300,
+    "High. School graduation rate (2017-2018)": "88%",
+    "Poor or fair health": "30%"
+  },
+  {
+    "County": "Lamar",
+    "Median household income overall": 47100,
+    "White median household income": 50100,
+    "Black median household income": 44200,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Lamb",
+    "Median household income overall": 42700,
+    "White median household income": 53900,
+    "Black median household income": 42200,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "29%"
+  },
+  {
+    "County": "Lampasas",
+    "Median household income overall": 58800,
+    "White median household income": 60500,
+    "Black median household income": 53300,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Lavaca",
+    "Median household income overall": 52600,
+    "White median household income": 58700,
+    "Black median household income": 50100,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Lee",
+    "Median household income overall": 59300,
+    "White median household income": 62600,
+    "Black median household income": 45300,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Leon",
+    "Median household income overall": 50500,
+    "White median household income": 44600,
+    "Black median household income": 37500,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Liberty",
+    "Median household income overall": 53300,
+    "White median household income": 53300,
+    "Black median household income": 49500,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Limestone",
+    "Median household income overall": 43600,
+    "White median household income": 49600,
+    "Black median household income": 43700,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Lipscomb",
+    "Median household income overall": 65400,
+    "White median household income": 64200,
+    "Black median household income": 51000,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Live Oak",
+    "Median household income overall": 54200,
+    "White median household income": 64100,
+    "Black median household income": 36500,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Llano",
+    "Median household income overall": 55600,
+    "White median household income": 54000,
+    "Black median household income": 32300,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Loving",
+    "Median household income overall": 88500,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Lubbock",
+    "Median household income overall": 54700,
+    "White median household income": 61700,
+    "Black median household income": 42000,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Lynn",
+    "Median household income overall": 45700,
+    "White median household income": 54300,
+    "Black median household income": 27900,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Madison",
+    "Median household income overall": 46300,
+    "White median household income": 55700,
+    "Black median household income": 57900,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Marion",
+    "Median household income overall": 37900,
+    "White median household income": 40900,
+    "Black median household income": 38500,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Martin",
+    "Median household income overall": 68700,
+    "White median household income": 81600,
+    "Black median household income": 48700,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Mason",
+    "Median household income overall": 54900,
+    "White median household income": 46500,
+    "Black median household income": 31300,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Matagorda",
+    "Median household income overall": 49300,
+    "White median household income": 63100,
+    "Black median household income": 48300,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Maverick",
+    "Median household income overall": 40000,
+    "White median household income": 71800,
+    "Black median household income": 38700,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "36%"
+  },
+  {
+    "County": "McCulloch",
+    "Median household income overall": 43300,
+    "White median household income": 47900,
+    "Black median household income": 42500,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "McLennan",
+    "Median household income overall": 51100,
+    "White median household income": 61200,
+    "Black median household income": 39600,
+    "High. School graduation rate (2017-2018)": "89%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "McMullen",
+    "Median household income overall": 68300,
+    "White median household income": 104600,
+    "Black median household income": 51600,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Medina",
+    "Median household income overall": 60700,
+    "White median household income": 66000,
+    "Black median household income": 57000,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Menard",
+    "Median household income overall": 38400,
+    "White median household income": 40900,
+    "Black median household income": 31400,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Midland",
+    "Median household income overall": 85800,
+    "White median household income": 95300,
+    "Black median household income": 66200,
+    "High. School graduation rate (2017-2018)": "90%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Milam",
+    "Median household income overall": 49000,
+    "White median household income": 57800,
+    "Black median household income": 32400,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Mills",
+    "Median household income overall": 46900,
+    "White median household income": 50500,
+    "Black median household income": 48000,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Mitchell",
+    "Median household income overall": 44500,
+    "White median household income": 54200,
+    "Black median household income": 49500,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Montague",
+    "Median household income overall": 53600,
+    "White median household income": 52400,
+    "Black median household income": 39000,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Montgomery",
+    "Median household income overall": 88800,
+    "White median household income": 87400,
+    "Black median household income": 56500,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "16%"
+  },
+  {
+    "County": "Moore",
+    "Median household income overall": 55100,
+    "White median household income": 64600,
+    "Black median household income": 51400,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Morris",
+    "Median household income overall": 43300,
+    "White median household income": 47700,
+    "Black median household income": 42800,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Motley",
+    "Median household income overall": 40200,
+    "White median household income": 37200,
+    "Black median household income": 62700,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Nacogdoches",
+    "Median household income overall": 46200,
+    "White median household income": 52100,
+    "Black median household income": 38800,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Navarro",
+    "Median household income overall": 48600,
+    "White median household income": 54900,
+    "Black median household income": 41500,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Newton",
+    "Median household income overall": 45900,
+    "White median household income": 45500,
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Nolan",
+    "Median household income overall": 46400,
+    "White median household income": 46700,
+    "Black median household income": 42300,
+    "High. School graduation rate (2017-2018)": "87%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Nueces",
+    "Median household income overall": 56100,
+    "White median household income": 69000,
+    "Black median household income": 50500,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Ochiltree",
+    "Median household income overall": 62600,
+    "White median household income": 61600,
+    "Black median household income": 43100,
+    "High. School graduation rate (2017-2018)": "98%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Oldham",
+    "Median household income overall": 59400,
+    "White median household income": 64600,
+    "Black median household income": 53600,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Orange",
+    "Median household income overall": 63000,
+    "White median household income": 63200,
+    "Black median household income": 52300,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Palo Pinto",
+    "Median household income overall": 50200,
+    "White median household income": 52300,
+    "Black median household income": 40300,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Panola",
+    "Median household income overall": 56900,
+    "White median household income": 56300,
+    "Black median household income": 50900,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Parker",
+    "Median household income overall": 82500,
+    "White median household income": 80300,
+    "Black median household income": 65200,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "17%"
+  },
+  {
+    "County": "Parmer",
+    "Median household income overall": 50600,
+    "White median household income": 62200,
+    "Black median household income": 48400,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "28%"
+  },
+  {
+    "County": "Pecos",
+    "Median household income overall": 52800,
+    "White median household income": 69600,
+    "Black median household income": 46200,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Polk",
+    "Median household income overall": 50400,
+    "White median household income": 51500,
+    "Black median household income": 47200,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Potter",
+    "Median household income overall": 41100,
+    "White median household income": 49700,
+    "Black median household income": 37000,
+    "High. School graduation rate (2017-2018)": "90%",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Presidio",
+    "Median household income overall": 33500,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "40%"
+  },
+  {
+    "County": "Rains",
+    "Median household income overall": 65700,
+    "White median household income": 52900,
+    "Black median household income": 45800,
+    "High. School graduation rate (2017-2018)": "88%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Randall",
+    "Median household income overall": 70700,
+    "White median household income": 70600,
+    "Black median household income": 60200,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "16%"
+  },
+  {
+    "County": "Reagan",
+    "Median household income overall": 67400,
+    "White median household income": 89600,
+    "Black median household income": 62500,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Real",
+    "Median household income overall": 40800,
+    "White median household income": 37600,
+    "Black median household income": 27300,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Red River",
+    "Median household income overall": 41300,
+    "White median household income": 47900,
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Reeves",
+    "Median household income overall": 49000,
+    "White median household income": 64600,
+    "Black median household income": 46000,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "28%"
+  },
+  {
+    "County": "Refugio",
+    "Median household income overall": 46900,
+    "White median household income": 53600,
+    "Black median household income": 43800,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Roberts",
+    "Median household income overall": 70700,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "17%"
+  },
+  {
+    "County": "Robertson",
+    "Median household income overall": 47000,
+    "White median household income": 55600,
+    "Black median household income": 64900,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Rockwall",
+    "Median household income overall": 105800,
+    "White median household income": 104900,
+    "Black median household income": 76600,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "14%"
+  },
+  {
+    "County": "Runnels",
+    "Median household income overall": 48700,
+    "White median household income": 47000,
+    "Black median household income": 42800,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Rusk",
+    "Median household income overall": 56000,
+    "White median household income": 63600,
+    "Black median household income": 46100,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Sabine",
+    "Median household income overall": 43800,
+    "White median household income": 36500,
+    "Black median household income": 28600,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "San Augustine",
+    "Median household income overall": 40100,
+    "White median household income": 42300,
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "San Jacinto",
+    "Median household income overall": 42600,
+    "White median household income": 43500,
+    "Black median household income": 37900,
+    "High. School graduation rate (2017-2018)": "90%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "San Patricio",
+    "Median household income overall": 57300,
+    "White median household income": 72300,
+    "Black median household income": 46800,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "San Saba",
+    "Median household income overall": 46100,
+    "White median household income": 48100,
+    "Black median household income": 41600,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Schleicher",
+    "Median household income overall": 53300,
+    "White median household income": 57000,
+    "Black median household income": 48200,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Scurry",
+    "Median household income overall": 56300,
+    "White median household income": 61300,
+    "Black median household income": 53300,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Shackelford",
+    "Median household income overall": 65100,
+    "White median household income": 49100,
+    "Black median household income": 45600,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Shelby",
+    "Median household income overall": 39700,
+    "White median household income": 49400,
+    "Black median household income": 38200,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Sherman",
+    "Median household income overall": 55500,
+    "White median household income": 63900,
+    "Black median household income": 43400,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Smith",
+    "Median household income overall": 59500,
+    "White median household income": 64300,
+    "Black median household income": 47400,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Somervell",
+    "Median household income overall": 67900,
+    "White median household income": 65600,
+    "Black median household income": 26400,
+    "High. School graduation rate (2017-2018)": "81%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Starr",
+    "Median household income overall": 32500,
+    "White median household income": 74500,
+    "Black median household income": 30300,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "41%"
+  },
+  {
+    "County": "Stephens",
+    "Median household income overall": 46700,
+    "White median household income": 44000,
+    "Black median household income": 48800,
+    "High. School graduation rate (2017-2018)": "88%",
+    "Poor or fair health": "24%"
+  },
+  {
+    "County": "Sterling",
+    "Median household income overall": 66800,
+    "White median household income": 49800,
+    "Black median household income": 71300,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Stonewall",
+    "Median household income overall": 48300,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Sutton",
+    "Median household income overall": 63400,
+    "White median household income": 60600,
+    "Black median household income": 48500,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Swisher",
+    "Median household income overall": 44400,
+    "White median household income": 45000,
+    "Black median household income": 32200,
+    "High. School graduation rate (2017-2018)": "90%",
+    "Poor or fair health": "29%"
+  },
+  {
+    "County": "Tarrant",
+    "Median household income overall": 70100,
+    "White median household income": 82000,
+    "Black median household income": 54000,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Taylor",
+    "Median household income overall": 54500,
+    "White median household income": 58500,
+    "Black median household income": 44400,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Terrell",
+    "Median household income overall": 45700,
+    "White median household income": 48800,
+    "Black median household income": 38300,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Terry",
+    "Median household income overall": 43000,
+    "White median household income": 60800,
+    "Black median household income": 36700,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "29%"
+  },
+  {
+    "County": "Throckmorton",
+    "Median household income overall": 42700,
+    "White median household income": 40200,
+    "Black median household income": 68800,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Titus",
+    "Median household income overall": 49900,
+    "White median household income": 57400,
+    "Black median household income": 47800,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Tom Green",
+    "Median household income overall": 54800,
+    "White median household income": 60400,
+    "Black median household income": 45200,
+    "High. School graduation rate (2017-2018)": "90%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Travis",
+    "Median household income overall": 80700,
+    "White median household income": 92400,
+    "Black median household income": 54800,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "16%"
+  },
+  {
+    "County": "Trinity",
+    "Median household income overall": 43800,
+    "White median household income": 45300,
+    "Black median household income": 33400,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Tyler",
+    "Median household income overall": 48300,
+    "White median household income": 45700,
+    "Black median household income": 66400,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Upshur",
+    "Median household income overall": 53100,
+    "White median household income": 53600,
+    "Black median household income": 60200,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Upton",
+    "Median household income overall": 58900,
+    "White median household income": 62700,
+    "Black median household income": 40000,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Uvalde",
+    "Median household income overall": 44700,
+    "White median household income": 49800,
+    "Black median household income": 37400,
+    "High. School graduation rate (2017-2018)": "88%",
+    "Poor or fair health": "29%"
+  },
+  {
+    "County": "Val Verde",
+    "Median household income overall": 45000,
+    "White median household income": 65800,
+    "Black median household income": 41600,
+    "High. School graduation rate (2017-2018)": "82%",
+    "Poor or fair health": "30%"
+  },
+  {
+    "County": "Van Zandt",
+    "Median household income overall": 55600,
+    "White median household income": 58600,
+    "Black median household income": 31400,
+    "High. School graduation rate (2017-2018)": "92%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Victoria",
+    "Median household income overall": 57300,
+    "White median household income": 67700,
+    "Black median household income": 46800,
+    "High. School graduation rate (2017-2018)": "89%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Walker",
+    "Median household income overall": 47500,
+    "White median household income": 52800,
+    "Black median household income": 30600,
+    "High. School graduation rate (2017-2018)": "78%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Waller",
+    "Median household income overall": 61800,
+    "White median household income": 82600,
+    "Black median household income": 44700,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "23%"
+  },
+  {
+    "County": "Ward",
+    "Median household income overall": 61400,
+    "White median household income": 76700,
+    "Black median household income": 52400,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Washington",
+    "Median household income overall": 59000,
+    "White median household income": 64600,
+    "Black median household income": 44800,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Webb",
+    "Median household income overall": 52600,
+    "White median household income": 65000,
+    "Black median household income": 45100,
+    "High. School graduation rate (2017-2018)": "94%",
+    "Poor or fair health": "35%"
+  },
+  {
+    "County": "Wharton",
+    "Median household income overall": 49900,
+    "White median household income": 61900,
+    "Black median household income": 40300,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Wheeler",
+    "Median household income overall": 58500,
+    "White median household income": 57600,
+    "Black median household income": 41100,
+    "High. School graduation rate (2017-2018)": "",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Wichita",
+    "Median household income overall": 51500,
+    "White median household income": 52300,
+    "Black median household income": 44400,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "22%"
+  },
+  {
+    "County": "Wilbarger",
+    "Median household income overall": 42600,
+    "White median household income": 48900,
+    "Black median household income": 46400,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "26%"
+  },
+  {
+    "County": "Willacy",
+    "Median household income overall": 35800,
+    "White median household income": 68900,
+    "Black median household income": 32600,
+    "High. School graduation rate (2017-2018)": "90%",
+    "Poor or fair health": "37%"
+  },
+  {
+    "County": "Williamson",
+    "Median household income overall": 92700,
+    "White median household income": 90800,
+    "Black median household income": 73100,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "15%"
+  },
+  {
+    "County": "Wilson",
+    "Median household income overall": 76900,
+    "White median household income": 84500,
+    "Black median household income": 66900,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "19%"
+  },
+  {
+    "County": "Winkler",
+    "Median household income overall": 64900,
+    "White median household income": 61400,
+    "Black median household income": 60000,
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "27%"
+  },
+  {
+    "County": "Wise",
+    "Median household income overall": 70500,
+    "White median household income": 67100,
+    "Black median household income": 49400,
+    "High. School graduation rate (2017-2018)": "95%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Wood",
+    "Median household income overall": 56900,
+    "White median household income": 55300,
+    "Black median household income": 42000,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "20%"
+  },
+  {
+    "County": "Yoakum",
+    "Median household income overall": 62600,
+    "White median household income": 75100,
+    "Black median household income": 67200,
+    "High. School graduation rate (2017-2018)": "96%",
+    "Poor or fair health": "25%"
+  },
+  {
+    "County": "Young",
+    "Median household income overall": 52600,
+    "White median household income": 54300,
+    "Black median household income": 44800,
+    "High. School graduation rate (2017-2018)": "97%",
+    "Poor or fair health": "21%"
+  },
+  {
+    "County": "Zapata",
+    "Median household income overall": 36100,
+    "White median household income": 56400,
+    "Black median household income": 32600,
+    "High. School graduation rate (2017-2018)": "91%",
+    "Poor or fair health": "40%"
+  },
+  {
+    "County": "Zavala",
+    "Median household income overall": 32500,
+    "White median household income": "",
+    "Black median household income": "",
+    "High. School graduation rate (2017-2018)": "93%",
+    "Poor or fair health": "40%"
+  }
+]
