@@ -3,8 +3,8 @@ Anderson,20,2310,76
 Andrews,21,6240,77
 Angelina,21,730,75
 Aransas,24,1240,77
-Archer,16,,83
-Armstrong,17,,84
+Archer,16,0,83
+Armstrong,17,0,84
 Atascosa,20,2560,75
 Austin,20,2500,81
 Bailey,29,3500,74
@@ -94,7 +94,7 @@ Gregg,21,600,77
 Grimes,22,7220,75
 Guadalupe,15,3340,81
 Hale,22,780,74
-Hall,28,,69
+Hall,28,0,69
 Hamilton,23,1210,78
 Hansford,28,2700,73
 Hardeman,26,1310,76
@@ -113,16 +113,16 @@ Hood,17,1040,83
 Hopkins,23,1430,78
 Houston,21,4590,73
 Howard,19,670,76
-Hudspeth,28,,64
+Hudspeth,28,0,64
 Hunt,20,1260,78
 Hutchinson,20,10470,79
-Irion,13,,82
+Irion,13,0,82
 Jack,23,8940,77
 Jackson,19,4920,79
 Jasper,17,2220,77
 Jeff Davis,30,450,81
 Jefferson,20,950,76
-Jim Hogg,19,,67
+Jim Hogg,19,0,67
 Jim Wells,20,1190,70
 Johnson,19,1310,80
 Jones,19,20080,75
@@ -151,10 +151,10 @@ Live Oak,21,12210,76
 Llano,21,1820,81
 Loving,16,170,80
 Lubbock,16,630,79
-Lynn,20,,73
+Lynn,20,0,73
 Madison,21,4760,77
 Marion,19,9850,76
-Martin,19,,77
+Martin,19,0,77
 Mason,28,2140,80
 Matagorda,21,2290,74
 Maverick,28,3090,64
@@ -162,16 +162,16 @@ McCulloch,20,2660,77
 McLennan,18,620,78
 McMullen,14,740,80
 Medina,18,2870,78
-Menard,28,,79
+Menard,28,0,79
 Midland,16,1120,81
 Milam,19,3100,76
 Mills,27,970,78
-Mitchell,21,,76
+Mitchell,21,0,76
 Montague,23,3960,80
 Montgomery,18,1150,84
 Moore,25,6980,73
 Morris,18,3100,79
-Motley,19,,80
+Motley,19,0,80
 Nacogdoches,21,960,77
 Navarro,22,1570,76
 Newton,20,6800,76
@@ -183,14 +183,14 @@ Orange,16,4390,80
 Palo Pinto,23,4860,78
 Panola,19,7730,78
 Parker,18,1810,83
-Parmer,28,,72
+Parmer,28,0,72
 Pecos,24,3960,73
 Polk,22,2330,76
 Potter,24,460,74
 Presidio,32,2230,60
 Rains,22,2500,80
 Randall,13,1080,84
-Reagan,21,,75
+Reagan,21,0,75
 Real,24,3450,75
 Red River,19,3010,77
 Reeves,22,15980,72
@@ -209,15 +209,15 @@ Schleicher,25,2790,78
 Scurry,19,4180,76
 Shackelford,21,1630,81
 Shelby,25,1810,74
-Sherman,28,,78
+Sherman,28,0,78
 Smith,22,810,79
 Somervell,18,4560,79
 Starr,30,5880,59
 Stephens,24,3120,76
-Sterling,18,,78
+Sterling,18,0,78
 Stonewall,20,450,79
-Sutton,20,,79
-Swisher,23,,71
+Sutton,20,0,79
+Swisher,23,0,71
 Tarrant,19,760,79
 Taylor,17,560,80
 Terrell,19,780,74
@@ -229,7 +229,7 @@ Travis,15,340,84
 Trinity,21,7330,77
 Tyler,18,3610,78
 Upshur,21,2610,80
-Upton,19,,74
+Upton,19,0,74
 Uvalde,24,1910,71
 Val Verde,22,1890,70
 Van Zandt,21,2980,79
@@ -246,18 +246,12 @@ Wilbarger,22,670,74
 Willacy,23,3560,63
 Williamson,12,830,85
 Wilson,16,3190,81
-Winkler,21,,73
+Winkler,21,0,73
 Wise,21,3330,80
 Wood,20,2850,80
 Yoakum,22,4360,75
 Young,22,1800,79
-Zapata,28,,60
+Zapata,28,0,60
 Zavala,20,1970,60
-,,20%,
-Zapata,28,,
+Zapata,28,0,20
 Zavala,20,1970,
-,,,
-,,,
-,,,
-,,,
-,,,
