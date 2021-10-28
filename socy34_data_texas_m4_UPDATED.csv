@@ -63,7 +63,7 @@ Denton,13,840,86
 DeWitt,18,6720,76
 Dickens,22,2210,76
 Dimmit,21,3370,64
-Donley,20,,80
+Donley,20,0,80
 Duval,20,11160,66
 Eastland,21,3670,77
 Ector,21,2160,76
@@ -74,18 +74,18 @@ Erath,21,990,80
 Falls,21,8650,73
 Fannin,20,1010,80
 Fayette,20,3620,79
-Fisher,20,,79
-Floyd,23,,72
-Foard,23,,78
+Fisher,20,0,79
+Floyd,23,0,72
+Foard,23,0,78
 Fort Bend,13,1350,85
 Franklin,18,2680,83
 Freestone,21,6570,77
 Frio,22,3380,69
 Gaines,32,10750,73
 Galveston,17,870,81
-Garza,23,,72
+Garza,23,0,72
 Gillespie,22,1080,82
-Glasscock,20,,78
+Glasscock,20,0,78
 Goliad,16,3830,79
 Gonzales,25,2980,73
 Gray,23,4380,76
@@ -134,9 +134,9 @@ Kent,16,760,82
 Kerr,22,320,81
 Kimble,21,4340,78
 King,22,270,82
-Kinney,18,,69
+Kinney,18,0,69
 Kleberg,19,2050,73
-Knox,25,,77
+Knox,25,0,77
 La Salle,16,1880,70
 Lamar,21,960,78
 Lamb,25,4300,71
@@ -146,7 +146,7 @@ Lee,21,1570,78
 Leon,26,5800,77
 Liberty,22,5190,75
 Limestone,22,2130,75
-Lipscomb,28,,79
+Lipscomb,28,0,79
 Live Oak,21,12210,76
 Llano,21,1820,81
 Loving,16,170,80
