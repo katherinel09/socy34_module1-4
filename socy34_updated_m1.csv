@@ -1,19 +1,19 @@
 "County,Median household income overall,High school graduation rate (2017-2018),Poor or fair health"
-"Anderson,48500,96,76"								76
-"Andrews,74900,95,77"								77
-"Angelina,51800,94,75"								75
-"Aransas,53100,93,77"								77
-"Archer,63700,96,83"								83
-"Armstrong,64400,,84"								84
-"Atascosa,57300,95,75"								75
-"Austin,68300,94,81"								81
-"Bailey,46200,98,74"								74
-"Bandera,59600,88,81"								81
-"Bastrop,62600,94,78"								78
-"Baylor,41500,,82"								82
-"Bee,44200,91,71"								71
-"Bell,54800,74,80"								80
-"Bexar,59000,90,78"								78
+"Anderson,48500,96,76"							
+"Andrews,74900,95,77"								
+"Angelina,51800,94,75"								
+"Aransas,53100,93,77"								
+"Archer,63700,96,83"								
+"Armstrong,64400,,84"								
+"Atascosa,57300,95,75"								
+"Austin,68300,94,81"								
+"Bailey,46200,98,74"								
+"Bandera,59600,88,81"								
+"Bastrop,62600,94,78"								
+"Baylor,41500,,82"								
+"Bee,44200,91,71"								
+"Bell,54800,74,80"								
+"Bexar,59000,90,78"								
 "Blanco,68400,98,83"								83
 "Borden,71900,,86"								86
 "Bosque,55200,91,80"								80
@@ -252,5 +252,4 @@
 "Yoakum,62600,96,75"								75
 "Young,52600,97,79"								79
 "Zapata,36100,91,60"								60
-"Zavala,32500,93,60"								60
-",,,"								
+"Zavala,32500,93,60"								
